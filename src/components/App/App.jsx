@@ -9,6 +9,7 @@ const App = () => {
       <UsersList />
       <hr/>
       <OrdedList />
+      <hr />
       <UserDetails />
     </div>
   );
